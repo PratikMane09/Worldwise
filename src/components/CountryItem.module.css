@@ -6,7 +6,7 @@
 
   font-size: 1.7rem;
   font-weight: 600;
-
+  overflow: hidden;
   background-color: var(--color-dark--2);
   border-radius: 7px;
   padding: 1rem 2rem;
